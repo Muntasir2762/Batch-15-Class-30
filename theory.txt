@@ -1,0 +1,29 @@
+
+==========Loop=======
+
+1. for loop
+2. foreach loop
+3. while loop
+4. do while loop
+
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+Hello world
+
+
+=>for loop
+
+for (initialization; range/condition; increment/decrement)
+        1              10 ++
+        10              5 --
+
+for (initialization; range/condition; increment/decrement){
+    //Statement.....
+}
